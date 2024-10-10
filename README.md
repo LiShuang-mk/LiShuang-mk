@@ -1,4 +1,13 @@
-## Hi there 👋
+## <center> Hi there 👋, I'm an undergraduate from Wuhan University </center>
+
+## Contact Me 
+
+- github: https://github.com/LiShuang-mk/
+- email: lishuang.mk@whu.edu.cn
+
+## My Blog 
+
+https://lishuang-mk.github.io/
 
 <!--
 **LiShuang-mk/LiShuang-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
